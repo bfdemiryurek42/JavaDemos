@@ -1,0 +1,25 @@
+package stringsDemo;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String message = "Weather is so nice today";
+		
+		System.out.println(message);
+		
+		System.out.println("Char amount = " + message.length());
+		System.out.println("5th char = " + message.charAt(4));
+		System.out.println(message.concat(" Yaaay!"));
+		System.out.println(message.startsWith("W"));
+		System.out.println(message.endsWith("r"));
+		
+		char[] characters = new char[5];
+		message.getChars(0, 5, characters, 0);
+		System.out.println(characters);
+		
+		
+		
+		
+	}
+}
