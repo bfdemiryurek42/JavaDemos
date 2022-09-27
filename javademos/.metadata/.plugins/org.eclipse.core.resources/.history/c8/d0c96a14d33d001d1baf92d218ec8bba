@@ -1,0 +1,13 @@
+package inheritance;
+
+public class CustomerManager {
+	
+	public void List() {
+		System.out.println("Customers Listed");
+	}
+	
+	public void Add() {
+		System.out.println("Customer Added");
+	}
+	
+}

@@ -4,4 +4,21 @@
     <fullyQualifiedTypeName name="java.util.Stack"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.Number"/>
+    <fullyQualifiedTypeName name="classes.CustomerManager"/>
+    <fullyQualifiedTypeName name="reCapDemoClasses.Operations"/>
+    <fullyQualifiedTypeName name="java.lang.Process"/>
+    <fullyQualifiedTypeName name="classesWithAttributes.ProductManager"/>
+    <fullyQualifiedTypeName name="classesWithAttributes.Product"/>
+    <fullyQualifiedTypeName name="methodOverloading.Operations"/>
+    <fullyQualifiedTypeName name="inheritance.Customer"/>
+    <fullyQualifiedTypeName name="inheritance.Employee"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthScrollBarUI"/>
+    <fullyQualifiedTypeName name="inheritance.PersonManager"/>
+    <fullyQualifiedTypeName name="inheritance.EmployeeManager"/>
+    <fullyQualifiedTypeName name="inheritance.CustomerManager"/>
+    <fullyQualifiedTypeName name="inheritanceDemo.CreditForAgricultureManager"/>
+    <fullyQualifiedTypeName name="inheritanceDemo.CreditUI"/>
+    <fullyQualifiedTypeName name="inheritanceDemo.CreditforTeachersManager"/>
+    <fullyQualifiedTypeName name="inheritanceDemo.BaseKrediManager"/>
+    <fullyQualifiedTypeName name="inheritanceDemo.CreditForSoldiersManager"/>
 </qualifiedTypeNameHistroy>

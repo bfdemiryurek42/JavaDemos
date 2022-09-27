@@ -1,0 +1,16 @@
+package methodsWithParameters;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String message = cityName();
+		System.out.println(message);
+		
+	}
+	
+	public static String cityName() {
+		return "Toronto";
+	}
+
+}
